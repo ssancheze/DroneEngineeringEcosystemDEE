@@ -84,9 +84,10 @@ A detailed guide on how to assemble, configure and tune up the drone platform ca
 [Transversal Project Guide](/TransversalProjectGuide.pdf)
 
 ## 5. Communication modes & the MQTT protocol
-In relation to communication system, the Drone Engineering Ecosystem can work in two modes, which are shown in the figure.    
 
 ![connection_modes](/assets/comms_modes.png)
+
+In relation to communication system, the Drone Engineering Ecosystem can work in two modes, which are shown in the figure.
 
 ### Global mode (ONLINE)
 
@@ -287,7 +288,7 @@ Contributions must follow the protocol described in this section. Two cases are 
 
 ### Individual contribution
   
-![individualContribution (1)](https://user-images.githubusercontent.com/100842082/215315504-4077ce55-8ab7-41d4-81af-c6f703c14e16.png)
+![individualContribution (1)](/assets/single_contrib.png)
 
 The figure shows the sequence of steps involved in an individual contribution. 
 
@@ -359,7 +360,7 @@ Note that in the case of long developments, the contributor may want to push fre
 
 ### Team contribution
 
-![teamContribution (1)](https://user-images.githubusercontent.com/100842082/215315553-b54a43ca-fd3f-4436-93f1-a18b47848fdd.png)
+![teamContribution (1)](/assets/team_contrib.png)
 
 The protocol in case of a team contribution is similar, as shown in this figure (no demo videos are needed in this case).
 
